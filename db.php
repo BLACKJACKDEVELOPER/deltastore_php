@@ -3,7 +3,7 @@
 function db($query) {
 	$server = 'localhost';
 	$username = 'root';
-	$password = 'lion4333';
+	$password = '';
 	$database = 'deltastore';
 
 	// connect all together
