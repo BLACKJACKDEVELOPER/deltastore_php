@@ -56,7 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
  ?>
 
-<!--  -->
+<!-- Load balancer for cache data -->
 <form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>" class="ui form register">
   <div align="center">
     <h1>เข้าสู่ระบบ</h1>
